@@ -50,11 +50,9 @@ public class Armstrong {
 			System.out.println(sum);
 			}
 			n=temp;
-			
-			
-			
 		}
 
 	}
 
 }
+
